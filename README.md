@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romrauq, a self-taught web developer and software programmer.
 - 👀 I’m interested in writing programs that make my life easier through automation.
-- 🌱 I’m currently learning JavaScript & Python
+- 🌱 I’m currently creating solutions using JavaScript & Python
 - 💞️ I’m looking to collaborate on something fun and innovative.
 - 📫 How to reach me: Twitter @romrauq
 
