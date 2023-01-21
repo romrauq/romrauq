@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @romrauq, a self-taught web developer and software programmer.
+- 👋 Hello there, my name is John, a self-taught web developer and application programmer.
 - 👀 I’m interested in writing programs that make my life easier through automation.
 - 🌱 I’m currently creating solutions using JavaScript & Python
 - 💞️ I’m looking to collaborate on something fun and innovative.
