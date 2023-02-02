@@ -1,5 +1,5 @@
-- 👋 Hello there, my name is John, a self-taught web developer and application programmer.
-- 👀 I’m interested in writing programs that make my life easier through automation.
+- 👋 Hello world! My name is John Q. A self-taught web developer & application programmer.
+- 👀 I’m interested in writing programs and scripts that make my life easier through automation.
 - 🌱 I’m currently creating solutions using JavaScript & Python
 - 💞️ I’m looking to collaborate on something fun and innovative.
 - 📫 How to reach me: Twitter @romrauq
