@@ -1,7 +1,7 @@
-- 👋 Hello! My name is John Q. A self-taught web application developer.
-- 👀 I’m interested in writing programs and scripts that make my life easier through automation.
-- 🌱 I’m currently creating solutions using JavaScript & Python.
-- 💞️ I’m looking to collaborate on something fun and innovative.
+## Hello! My name is John Q. A self-taught web application developer.
+- 🤖 I’m interested in writing programs and scripts that make my life easier through automation.
+- 🧪 I’m currently creating solutions using JavaScript & Python.
+- 🔍 I’m looking to collaborate on something fun and innovative.
 - 📫 How to reach me: Twitter @romrauq
 
 <!---
