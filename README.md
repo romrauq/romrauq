@@ -12,10 +12,10 @@
 - ## My Frontend Design & Planning Tools:
 [![My Skills](https://skillicons.dev/icons?i=photoshop,webflow,figma)](https://skillicons.dev)
 
-- ## Other Tools:
+- ## Other Tools I Use in Development:
 [![My Skills](https://skillicons.dev/icons?i=git,npm,heroku,postman)](https://skillicons.dev)
 
-- ## Future Projects Wishlist Tools:
+- ## My Future Projects Wishlist Tools 🤞🏾:
 [![My Skills](https://skillicons.dev/icons?i=python,godot)](https://skillicons.dev)
 
 <!---
