@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,wordpress)](https://skillicons.dev)
 
 - ## My Frontend Design & Planning Tools:
-[![My Skills](https://skillicons.dev/icons?i=photoshop,miro,webflow,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,webflow,figma)](https://skillicons.dev)
 
 - ## Other Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,npm,heroku,postman)](https://skillicons.dev)
