@@ -1,6 +1,6 @@
 ## Hello! My name is John Q. 
 ### A self-taught web application developer.
-- 💗 I enjoy strengthening my development skills by building frontend & server side applications.
+- 💗 I enjoy strengthening my web development skills by continously building frontend & server side applications.
 - 🤖 I’m interested in crafting programs that make mundane and repetitive tasks more efficient through automation.
 - 🧪 I’m also interested in developing applications using JavaScript and its associated libraries/frameworks.
 - 👥 I’m looking to collaborate on something fun, innovative and profitable.
