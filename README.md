@@ -1,10 +1,9 @@
-## Hello! My name is John Q. 
-### A passionate web application developer.
-- 💗 I enjoy strengthening my web development skills by continously building frontend & server side applications.
-- 🤖 I’m interested in crafting programs that make mundane and repetitive tasks more efficient through automation.
-- 🧪 I’m also interested in developing applications using JavaScript and its associated libraries/frameworks.
-- 👥 I’m looking to collaborate on something fun, innovative and profitable.
-- 🔍 You can also find me on X: [@romrauq](https://x.com/romrauq)
+I love transforming ideas into functional, user-centric web applications.
+📚 I constantly sharpen my craft by building dynamic front-end experiences and robust server-side solutions.
+⚙️ I enjoy creating automation tools that streamline repetitive tasks, enhance efficiency, and boost productivity.
+🌐 Enthusiastic about JavaScript and its rich ecosystem of libraries and frameworks—always exploring, learning, and building.
+🤝 Open to collaborating on projects that are exciting, innovative, and impactful.
+🔗 Connect with me on X: @romrauq
 
  ## My frontend development tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress)](https://skillicons.dev)
