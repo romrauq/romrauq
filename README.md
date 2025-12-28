@@ -6,7 +6,7 @@ I love transforming ideas into functional, user-centric web applications.
 🔗 Connect with me on X: @romrauq
 
  ## My frontend development tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress,flutter)](https://skillicons.dev)
 
 ## Additional/Backend tools I use:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,python,)](https://skillicons.dev)
