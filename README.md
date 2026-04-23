@@ -9,7 +9,7 @@ I love transforming ideas into functional, user-centric web applications.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress,flutter)](https://skillicons.dev)
 
 ## Additional/Backend tools I use:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,python,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,supabase,python,)](https://skillicons.dev)
 
 ## Frontend design & planning tools I use:
 [![My Skills](https://skillicons.dev/icons?i=figma,webflow,photoshop)](https://skillicons.dev)
