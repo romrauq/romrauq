@@ -1,26 +1,45 @@
-I love transforming ideas into functional, user-centric web applications.
-📚 I constantly sharpen my craft by building dynamic front-end experiences and robust server-side solutions.
-⚙️ I enjoy creating automation tools that streamline repetitive tasks, enhance efficiency, and boost productivity.
-🌐 Enthusiastic about JavaScript and its rich ecosystem of libraries and frameworks—always exploring, learning, and building.
-🤝 Open to collaborating on projects that are exciting, innovative, and impactful.
-🔗 Connect with me on X: @romrauq
+# Hi there 👋 I'm John Quarmor
 
- ## My frontend development tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress,flutter)](https://skillicons.dev)
+I enjoy transforming ideas into scalable, user-focused software—from intuitive frontend experiences to reliable backend systems and cloud infrastructure.
 
-## Additional/Backend tools I use:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,supabase,python,)](https://skillicons.dev)
+* 🚀 Building modern full-stack web applications with a focus on clean architecture and maintainable code.
+* 🧠 Exploring AI, automation, and developer tooling to solve real-world problems and improve workflows.
+* 🐧 Passionate about Linux, self-hosting, containers, and deploying applications on cloud infrastructure.
+* ⚙️ Enjoy designing APIs, databases, and backend services that are secure, scalable, and efficient.
+* 🌱 Continuously learning new technologies and best practices across software engineering, DevOps, and AI.
+* 🤝 Always open to collaborating on interesting, challenging, and impactful projects.
+* 🔗 Connect with me on **X:** @romrauq
 
-## Frontend design & planning tools I use:
-[![My Skills](https://skillicons.dev/icons?i=figma,webflow,photoshop)](https://skillicons.dev)
+---
 
-## Other tools I use in development:
-[![My Skills](https://skillicons.dev/icons?i=git,npm,vercel,heroku,postman)](https://skillicons.dev)
+## 🚀 Frontend
 
-## Tools I would like to familiarise myself with and use on future projects:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,threejs,raspberrypi,discordjs,linux,godot)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,flutter,tailwind,figma)](https://skillicons.dev)
+
+## 🛠 Backend & APIs
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,python,postgres,supabase,mongodb,prisma)](https://skillicons.dev)
+
+## ☁️ DevOps & Infrastructure
+
+[![Infrastructure Skills](https://skillicons.dev/icons?i=linux,docker,nginx,git,github,postman,cloudflare)](https://skillicons.dev)
+
+## 🤖 AI & Automation
+
+[![AI Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+Currently building AI-powered applications and automation tools using Python, local LLMs, and modern AI frameworks.
+
+## 📚 Currently Exploring
+
+[![Learning](https://skillicons.dev/icons?i=terraform,kubernetes,redis,threejs,raspberrypi,godot)](https://skillicons.dev)
+
+Always learning technologies that improve scalability, developer experience, and system reliability.
+
+---
+
+> *"Software is more than writing code—it's designing reliable systems that solve meaningful problems."*
 
 <!---
-romrauq/romrauq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+romrauq/romrauq is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
